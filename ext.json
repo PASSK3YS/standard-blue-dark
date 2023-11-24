@@ -1,0 +1,19 @@
+{
+  "identifier": "xyz.m00t.standardbluedark",
+  "name": "Standard Blue Dark",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0",
+  "description": "Dark mode version of Standard Blue theme",
+  "url": "",
+  "download_url": "",
+  "marketing_url": "https://github.com/m00t316/standard-blue-dark",
+  "latest_url": "",
+  "thumbnail_url": "",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#000000",
+    "foreground_color": "#abc4ff",
+    "border_color": "#3D465D"
+  }
+}
