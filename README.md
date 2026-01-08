@@ -13,5 +13,5 @@ To install, go to Preferences > Plugins > Install Custom Plugin
 
 Paste the following link in the text box:
 ```
-https://notes.m00t.xyz/p/QWil6VpMZt
+https://listed.to/p/QWil6VpMZt
 ```
