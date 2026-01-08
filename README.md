@@ -3,7 +3,7 @@
 This theme is now included in the official [Standard Notes Community Plugins](https://github.com/standardnotes/plugins) repository. It can be installed directly in the Standard Notes application via the Plugins menu.
 
 
-![preview](https://raw.githubusercontent.com/m00t316/standard-blue-dark/main/standard-blue-dark.png)
+![preview](https://raw.githubusercontent.com/PASSK3YS/standard-blue-dark/refs/heads/main/standard-dark-new.png)
 
 Dark mode version of Standard Blue theme
 
