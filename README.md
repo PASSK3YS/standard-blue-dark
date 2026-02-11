@@ -13,5 +13,5 @@ To install, go to Preferences > Plugins > Install Custom Plugin
 
 Paste the following link in the text box:
 ```
-https://listed.to/p/QWil6VpMZt
+https://passk3ys.github.io/standard-blue-dark/src/main.css
 ```
